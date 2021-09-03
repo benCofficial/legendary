@@ -39,7 +39,7 @@ setup(
         'setuptools',
         'wheel'
     ],
-    url='https://github.com/derrod/legendary',
+    url='https://github.com/benCofficial/legendary',
     description='Free and open-source replacement for the Epic Games Launcher application',
     long_description=long_description,
     long_description_content_type="text/markdown",
